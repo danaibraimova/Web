@@ -1,0 +1,70 @@
+#aboutBody
+{	
+	background-image: url('images/bd2ddfa1e88d1c8b399b63542703228d.jpg');
+	background-size: cover;
+}
+
+
+
+.card
+{
+	/*margin: 0 auto;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 250px;
+	width: 40%;
+	height: 150px;
+	padding: 50px;
+	position: absolute;*/
+	background: rgba(211, 211, 211, 0.8);
+	border-radius: 5px;	
+	
+	
+}
+
+h1
+{
+	text-align: center;
+	color: #b23a3a;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+#flower1
+{
+	
+	background-image: url('images/hibiscus-flower-hi.png');	
+	width: 400px;
+	height: 400px;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+#flower2
+{
+	background-image: url('images/acqy6GzcM.png');	
+	width: 500px;
+	height: 500px;
+	margin-left: 500px;
+	margin-top: 0px;
+}
+
+#flower3
+{
+	background-image: url('images/Kijo8jGxT.png');	
+	width: 300px;
+	height: 300px;
+		top: 0;
+	position: absolute;
+	margin-left: 60%;
+
+}
+
+
+
+.flowers
+{
+		position: relative;
+		background-size: contain;
+	background-repeat: no-repeat;
+}
